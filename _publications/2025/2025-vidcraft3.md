@@ -1,7 +1,7 @@
 ---
 title:          "VidCraft3: Camera, Object, and Lighting Control for Image-to-Video Generation"
 date:           2025-02-01 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "arXiv preprint"
 pub_date:       "2025"
 abstract: >-

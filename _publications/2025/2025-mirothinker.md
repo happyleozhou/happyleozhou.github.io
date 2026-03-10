@@ -1,7 +1,7 @@
 ---
 title:          "MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling"
 date:           2025-11-03 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "arXiv preprint"
 pub_date:       "2025"
 abstract: >-

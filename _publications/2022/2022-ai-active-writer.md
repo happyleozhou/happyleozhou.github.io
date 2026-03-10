@@ -1,7 +1,7 @@
 ---
 title:          "AI as an Active Writer: Interaction Strategies with Generated Text in Human-AI Collaborative Fiction Writing"
 date:           2022-03-01 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "Joint Proceedings of the ACM IUI Workshops"
 pub_date:       "2022"
 abstract: >-

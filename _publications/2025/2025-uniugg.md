@@ -1,7 +1,7 @@
 ---
 title:          "UniUGG: Unified 3D Understanding and Generation via Geometric-Semantic Encoding"
 date:           2025-04-02 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "International Conference on Learning Representations (ICLR)"
 pub_date:       "2025"
 abstract: >-
