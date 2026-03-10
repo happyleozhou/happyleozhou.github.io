@@ -17,4 +17,6 @@ authors:
   - YJ Yuan
   - X Cai
   - et al.
+links:
+  Paper: https://arxiv.org/abs/2503.22976
 ---

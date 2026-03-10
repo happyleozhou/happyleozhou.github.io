@@ -15,4 +15,6 @@ authors:
   - M Kampffmeyer
   - H Xu
   - X Liang
+links:
+  Paper: https://arxiv.org/abs/2502.17860
 ---
